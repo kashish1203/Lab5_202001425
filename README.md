@@ -1,7 +1,7 @@
 # Lab5_202001425
 In order to inspect python project statically,we utilized the tool pylint in python and installed in our pc.
 
-Github link : 
+Github link : https://github.com/kashish1203/python_doc.git
 
 Analyzing the error 
 
